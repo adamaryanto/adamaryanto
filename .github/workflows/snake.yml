@@ -20,8 +20,8 @@ jobs:
         with:
           github_user_name: adamaryanto
           outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
+            dist/snake.svg?color_snake=#7c3aed&color_dots=#ebedf0,#9be9a8,#f1c40f,#fb923c,#f87171
+            dist/snake-dark.svg?color_snake=#a371f7&color_dots=#161b22,#2ea043,#d29922,#f0883e,#ff7b72
 
       - name: Push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v4
