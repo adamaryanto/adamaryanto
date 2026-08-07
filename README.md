@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Adam Aryanto and I'm a FWeb Developer, from Indonesian</h2>
+<h2 align="left">Hi 👋! My name is Adam Aryanto and I'm a Web Developer, from Indonesian</h2>
 
 ###
 
