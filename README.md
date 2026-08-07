@@ -34,12 +34,16 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adamaryanto&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamaryanto&layout=compact&langs_count=5&theme=dracula" height="150" alt="languages graph"  />
+  <img src="https://stats-five-eta.vercel.app/api?username=adamaryanto&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" height="150" alt="stats graph"  />
+  <img src="https://stats-five-eta.vercel.app/api/top-langs/?username=adamaryanto&layout=compact&langs_count=5&theme=dracula" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/adamaryanto/adamaryanto/snake-output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adamaryanto/adamaryanto/snake-output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adamaryanto/adamaryanto/snake-output/snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/adamaryanto/adamaryanto/snake-output/snake.svg" />
+</picture>
 
 ###
